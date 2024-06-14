@@ -29,7 +29,7 @@ h2 {
 }
 
 .stylea {
-    color: rgb(162, 0, 255);
+    color: rgb(124, 49, 139);
     font-weight: 300;
     font-size: 25px
 }
@@ -53,6 +53,25 @@ h2 {
 }
 
 .gradient {
-    background: linear-gradient(blue, darkblue, black);
+    background: linear-gradient(rgb(124, 49, 139), darkblue, darkblue, rgb(124,49, 139));
 }
 
+.imagee {
+    width: 300px;
+    height: 200px;
+}
+
+.picture {
+    width: 300px;
+    height: 200px;
+}
+
+.newbutton {
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 255, 255);
+    padding: 10px 20px;
+    border: aqua;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 10px;
+}
